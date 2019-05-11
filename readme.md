@@ -5,3 +5,7 @@ QWERTY layout with Colemak multilingual layout
 ## Installation
 
 Download the layout on the Release tab, unzip it, run ```setup.exe```.
+
+## Changes from the original layout
+
+```AltGr Shift S``` types Capital ẞ. ẞßẞẞß
